@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "五月雨",
+  "base_artist": "Soushi Sakiyama",
+  "createdAt": "2025-12-05T10:23:40.871425Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "五月雨 (Samidare)",
+      "artist": "&TEAM",
+      "has_synced": true,
+      "path": "select/01_五月雨_(Samidare)_&TEAM.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "五月雨",
+      "artist": "レミオロメン",
+      "has_synced": false,
+      "path": "select/02_五月雨_レミオロメン.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "五月雨 (Samidare)",
+      "artist": "&TEAM",
+      "has_synced": true,
+      "path": "select/03_五月雨_(Samidare)_&TEAM.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "五月雨",
+      "artist": "Remioromen",
+      "has_synced": false,
+      "path": "select/04_五月雨_Remioromen.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "五月雨 - From THE FIRST TAKE",
+      "artist": "崎山蒼志",
+      "has_synced": true,
+      "path": "select/05_五月雨_-_From_THE_FIRST_TAKE_崎山蒼志.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "五月雨",
+      "artist": "崎山蒼志",
+      "has_synced": true,
+      "path": "select/06_五月雨_崎山蒼志.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "五月雨",
+      "artist": "崎山蒼志",
+      "has_synced": false,
+      "path": "select/pl_01_五月雨_崎山蒼志.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "五月雨",
+      "artist": "崎山蒼志",
+      "has_synced": false,
+      "path": "select/pl_02_五月雨_崎山蒼志.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "五月雨",
+      "artist": "崎山蒼志",
+      "has_synced": false,
+      "path": "select/pl_03_五月雨_崎山蒼志.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "五月雨",
+      "artist": "崎山蒼志",
+      "has_synced": false,
+      "path": "select/pl_04_五月雨_崎山蒼志.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "五月雨 - From THE FIRST TAKE",
+      "artist": "崎山蒼志",
+      "has_synced": false,
+      "path": "select/pl_05_五月雨_-_From_THE_FIRST_TAKE_崎山蒼志.txt"
+    }
+  ]
+}
